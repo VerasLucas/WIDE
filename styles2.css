@@ -5,7 +5,7 @@
 }
 
 header{
-        margin: 47px 0 161px 76px;
+        margin: 47px 0 0px 42px;
 
 }
 .link-header{
@@ -26,13 +26,14 @@ header{
     border-radius:  20.5px ;
 }
 .logo-img{
-    width: 595.18;
-    height: 500px;
+    
     margin: 163px 0 0 123px;
     display: inline-block;
 }
 section{
     display: inline-block;
+    margin-left: 85px;
+    width: 493px;
 }
 
 h1{
@@ -49,7 +50,8 @@ p{
 
 }
 .link-main{
-    
+    width: 112px;
+    height: 27px;
     font-weight:500 ;
     font-size: 18px;
     line-height:27px ;
